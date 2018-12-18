@@ -1,0 +1,15 @@
+{
+  "name": "dupont",
+  "version": "1.0.0",
+  "description": "gupont ru",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Buchenko Serafima Vitalievna",
+  "license": "ISC",
+
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  }
+}
